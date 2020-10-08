@@ -1,2 +1,2 @@
 Hello!
-Welcome to the fanyingfx's repo
+Welcome to the fanyingfx's github!
